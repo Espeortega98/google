@@ -1,0 +1,14 @@
+h1{
+    font-family: serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    background-color: darksalmon;
+    background-clip: none;
+}
+body{
+    font-family: serif;
+    font-size: 15px;
+    background-color: rosybrown;
+    background-clip: none;
+}
